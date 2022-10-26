@@ -1,0 +1,38 @@
+/******TAG SELECTORS******/
+body{
+    background-color: #F8FFDB;
+}
+hr{
+    border-color:gray;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%
+}
+
+h1{
+    color:#BCE29E;
+}
+
+h3{
+    color:#BCE29E;
+}
+
+img:hover{
+    background-color: red;
+}
+
+/******CLASS SELECTORS (group of similar elements)******/
+.special{
+    color: #4E6C50;
+}
+
+.box{
+    background-color: #F8C4B4;
+    width: 1%;
+}
+
+/******ID SELECTORS (Single element)******/
+#heading{
+    color:skyblue;
+}
